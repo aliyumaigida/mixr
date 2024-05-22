@@ -1,0 +1,35 @@
+.audio {
+  text-align: center;
+}
+
+.butt {
+  border-radius: 40px !important;
+}
+.btn1:hover,
+.btn2:hover,
+.btn3:hover {
+  background-color: black;
+  border-radius: 30px;
+  color: #fff;
+}
+.start-trial {
+  margin-left: -100px;
+}
+#btn-red {
+  width: 230px;
+  background-color: #ed1c24;
+  border-radius: 30px;
+}
+.view {
+  text-decoration: none;
+  color: #ed1c24;
+}
+
+.today {
+  text-align: center;
+  padding: 30px;
+}
+
+.margin {
+  margin-top: 70px;
+}
